@@ -1,0 +1,6 @@
+@Bubbles3D.Server_HostAddress = http://localhost:5244
+
+GET {{Bubbles3D.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
